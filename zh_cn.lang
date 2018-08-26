@@ -1,0 +1,10 @@
+entity.female.name=女性
+entity.male.name=男性
+
+item.man_meat.name=人肉
+item.cooked_man_meat.name=烤人肉
+item.spawner.name=生成魔杖
+item.mutator.name=突变棒
+item.generator.name=世代魔杖
+item.fertilizer.name=受孕魔杖
+item.amplifier.name=成长魔杖
